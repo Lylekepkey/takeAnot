@@ -62,7 +62,6 @@ const products = [
         price: "120",
         quantity: 5,
     }
-
 ];
 
 function displayProducts() {
